@@ -1,0 +1,26 @@
+.header-title {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	border: 1px solid black;
+	border-radius: 8px;
+	margin-bottom: 10px;
+}
+
+.title-section {
+	display: flex;
+	align-items: center;
+}
+
+.title-icon {
+	padding: 24px;
+}
+
+.title-text {
+	display: flex;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 20px;
+	color: #666666;
+}

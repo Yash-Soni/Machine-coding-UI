@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+  font-family: 'Montserrat' !important;
+  /* background-color: gray; */
+}
+
+.App {
+  display: flex;
+  width: 100%;
+}
+
+.sideNav {
+  width: 80px;
+}
+
+.title {
+  text-transform: uppercase;
+}
+
+.main-content {
+  width: 100%;
+  flex-grow: 1;
+  margin-left: 10px;
+}
