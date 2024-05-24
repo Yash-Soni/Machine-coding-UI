@@ -1,0 +1,13 @@
+.darkModeOff {
+  background-color: #eee;
+  color: #444;
+}
+
+.darkModeOn {
+  background-color: #444;
+  color: #eee;
+}
+
+.darkModeButton {
+  cursor: pointer;
+}

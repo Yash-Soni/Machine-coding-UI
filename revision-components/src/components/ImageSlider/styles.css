@@ -1,0 +1,12 @@
+.imageSlider {
+  display: flex;
+}
+
+.image {
+  width: 500px;
+  height: 300px;
+}
+
+.slideButton {
+  cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.navBar {
+  width: 100vw;
+  height: 50px;
+  background-color: #ddd;
+  /* color: red;
+  text-decoration: none !important; */
+  font-size: 30px;
+
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navlink {
+  color: red;
+  text-decoration: none;
+}
